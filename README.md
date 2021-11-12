@@ -2,7 +2,7 @@
 
 
 
-A Library Management System made using the concepts of Object Oriented Analysis and Design. Minimal Code is written in the GUI and the entities are decoupled as well. The interface is console based. This project was designed during the course "4136 Application Development using Java" with <a href="https://github.com/Mun-shi">Munshid V</a>
+A Library Management System made using the concepts of Object Oriented Analysis and Design. Minimal Code is written in the GUI and the entities are decoupled as well. The interface is console based. This project was designed during the course "4136 Application Development using Java" with <a href="https://github.com/mhdyazinkc">Yaseen</a>
 
 ## Actors:
 The actors include the following: 
